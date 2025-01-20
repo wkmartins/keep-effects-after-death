@@ -1,0 +1,6 @@
+name: KeepEffectsAfterDeath
+version: '1.0.0'
+main: io.github.wkmartins.keepEffectsAfterDeath.KeepEffectsAfterDeath
+api-version: '1.21'
+description: A simple plugin that restores player effects after death.
+author: wkmartins
